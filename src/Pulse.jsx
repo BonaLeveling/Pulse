@@ -42,8 +42,8 @@ function Pulse() {
         setIsOpen(prev => !prev);
     }
     const menuClasses = `
-    absolute top-full right-0 p-4 py-8 border-t border-[#337eff]
-    w-full shadow-lg z-5  bg-[#0f1729]
+    absolute top-full right-0 p-4 py-8 border-t border-[#337eff] md:hidden
+    w-full shadow-lg z-50  bg-[#0f1729]
     text-white/60 text-base font-normal
     ${isOpen ? 'hidden' : 'flex flex-col gap-12 ' }
     `;
