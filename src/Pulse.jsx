@@ -434,7 +434,7 @@ function Pulse() {
                                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-arrow-right w-4 h-4 sm:w-5 sm:h-5" aria-hidden="true"><path d="M5 12h14"></path><path d="m12 5 7 7-7 7"></path></svg>
                                 </Link>    
                             </div>
-                            <div  className='-mt-2 cursor-default py-2 sm:py-3 px-8 bg-white rounded-md text-[#4592ff] max-sm:w-full max-md:flex max-md:justify-center'>
+                            <div  className='max-sm:-mt-2 cursor-default py-2 sm:py-3 px-8 bg-white rounded-md text-[#4592ff] max-sm:w-full max-md:flex max-md:justify-center'>
                                 <Link to=''>Planifier une démo</Link>
                             </div>  
                         </div>
